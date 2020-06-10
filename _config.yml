@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Pejvak Moghimi"
 title_separator          : "-"
-name                     : &name "Pejvak-----Moghimi"
+name                     : &name "Pejvak Moghimi"
 description              : &description "LiDO PhD student at the ISMB"
 url                      : https://www.pejvakmoghimi.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=a2kSfYwAAAAJ"
-  email            :
+  email            : "pejhub@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
